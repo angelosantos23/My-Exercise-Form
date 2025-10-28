@@ -1,0 +1,15 @@
+input{
+    background-color: #eeeeee;
+    border-radius: 5px;
+    height: 25px;
+}
+input[type=submit]{
+    background-color: red;
+}
+input[type=reset]{
+    background-color: blue;
+    color: white;
+}
+body{
+    text-align: center;
+}
